@@ -1,6 +1,6 @@
 # UDP Server for NB-IoT Sensors
 
-A Python-based UDP server designed to receive, decode, and forward data from NB-IoT sensors (specifically Milesight distance sensors).
+A Python-based UDP server designed to receive, decode, and forward data from NB-IoT sensors (specifically Milesight distance sensors, can be easily modified to accomodate other sensors).
 
 ## Overview
 
